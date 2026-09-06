@@ -1,4 +1,4 @@
-`![CyberCircuits](banner.jpeg)`
+![CyberCircuits](banner.jpeg)
 # Cyber Circuits
 Hello!
 
