@@ -4,7 +4,6 @@ Hello!
 
 Greetings from the Cyber Circuits team! Welcome to the profile of the Cyber Circuits team. Here, we upload all our projects which we make together. Whenever we upload a project, do check it out. :-)
 
-For all issues, reach out to - cybercircuits26@gmail.com
 
 
 **Members of the Cyber Circuits** -
@@ -18,4 +17,6 @@ For all issues, reach out to - cybercircuits26@gmail.com
 - <u>*Saunak Samanta*</u> (discord username - samverse7000)
 
 - <u>*Nairit R. Mukhopadhyay*</u> (discord username - deadrailspro0990)
+
+For all issues, reach out to - cybercircuits26@gmail.com
 
