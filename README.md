@@ -1,4 +1,4 @@
-```markdown ![CyberCircuits](main/banner.jpeg) ```
+```markdown ![CyberCircuits](banner.jpeg) ```
 # Cyber Circuits
 Hello!
 
