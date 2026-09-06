@@ -4,7 +4,7 @@ Hello!
 
 Greetings from the Cyber Circuits team! Welcome to the profile of the Cyber Circuits team. Here, we upload all our projects which we make together. Whenever we upload a project, do check it out. :-)
 
-Members of the Cyber Circuits - 
+**Members of the Cyber Circuits -**
 
   Adrito Roy - Main Coder #3 (discord username - itzadriduckhere)
              
