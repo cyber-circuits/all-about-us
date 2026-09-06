@@ -4,6 +4,9 @@ Hello!
 
 Greetings from the Cyber Circuits team! Welcome to the profile of the Cyber Circuits team. Here, we upload all our projects which we make together. Whenever we upload a project, do check it out. :-)
 
+For all issues, reach out to - cybercircuits26@gmail.com
+
+
 **Members of the Cyber Circuits** -
 
 - <u>*Shreyansh Jaiswal*</u> - Captain and Main Coder #2 (discord username - shreyu_17)
